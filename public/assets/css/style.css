@@ -1,0 +1,10 @@
+ .carousel-inner > .item > img,
+ 	.carousel-inner > .item > a > img {
+     	width: 100%;
+     	margin: auto;
+  }
+
+  /*.imgSize{
+  	width: auto;
+  	height: 200px;
+  }*/
